@@ -1,3 +1,1 @@
-document.addEventListener("DOMContentLoaded", () => {
-  AOS.init();
-});
+console.log("EliteVolt enhanced site loaded.");
