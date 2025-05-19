@@ -1,0 +1,1 @@
+console.log("EliteVolt enhanced site loaded.");
