@@ -1,1 +1,0 @@
-console.log("EliteVolt site loaded successfully.");
